@@ -1,9 +1,9 @@
 ext {
-    extName = 'Kaido'
-    extClass = '.Kaido'
+    extName = 'TVToons'
+    extClass = '.TVToons'
     themePkg = 'zorotheme'
-    baseUrl = 'https://kaido.to'
-    overrideVersionCode = 16
+    baseUrl = 'https://tvtoons.co'
+    overrideVersionCode = 1
 }
 
 apply from: "$rootDir/common.gradle"
